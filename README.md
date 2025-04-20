@@ -76,7 +76,7 @@
 
 1. 克隆仓库：
 ```bash
-git clone https://github.com/beilunyang/moemail.git
+git clone https://github.com/akxxxxxxxxx9.git
 cd moemail
 ```
 
@@ -186,7 +186,7 @@ pnpm dlx tsx ./scripts/deploy/index.ts
 - 确保所有 Secrets 都已正确设置
 - 使用 tag 触发时，tag 必须以 `v` 开头（例如：v1.0.0）
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/beilunyang/moemail)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/akxxxxxxxxx9)
 
 
 ## 邮箱域名配置
